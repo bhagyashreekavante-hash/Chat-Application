@@ -16,3 +16,5 @@
 This task demonstrates the implementation of real-time communication, frontend and backend integration, and event-based data handling. Messages are transmitted instantly without page refresh, ensuring a seamless and interactive user experience.
 
 #OUTPUT
+
+<img width="891" height="902" alt="Image" src="https://github.com/user-attachments/assets/db6134a4-2961-4c77-b745-8a2eded6fbb3" />
